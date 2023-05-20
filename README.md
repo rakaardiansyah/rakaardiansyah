@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rakaardiansyah
-- 🌱 I’m currently working in an IT company as a Frontend Developer and UI/UX Designer
+- 🌱 I’m currently working in an IT company as a UI/UX Designer and Frontend Developer
 - 💞️ I have also written a Tutorial Blog >> https://infogabut.blogspot.co.id
 - 📫 How to reach me on website https://rakaardiansyah.my.id and IG @infogtech.id
 
