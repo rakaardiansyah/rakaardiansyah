@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Raka Ardiansyah</h1>
-<h3 align="center">Web Developer | Laravel | Backend Enthusiast</h3>
+<h3 align="center">UI/UX Design | Front-end Dev | Laravel</h3>
 
 ---
 
