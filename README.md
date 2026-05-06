@@ -8,7 +8,6 @@
 - 🌱 How to reach me on website <a href="https://rakaardiansyah.my.id" target="_blank">Web rakaardiansyah.my.id</a> and <a href="https://dribbble.com/rakaardiansyah" 
 - 💬 I have also written a Tutorial Blog >> <a href="https://infogabut.blogspot.co.id" target="_blank">Web infogabuttarget="_blank">Dribbble Rakaardiansyah</a>
 - 📫 Follow my Social Media IG <a href="https://www.instagram.com/infogtech.id" target="_blank">@infogtech.id</a>
-- 📫 Email: <a href="https://mail.google.com/mail?authuser=raka.devproject@gmail.com#all/1567f47dd61869df" target="_blank">raka.devproject@gmail.com</a>
 
 ---
 
