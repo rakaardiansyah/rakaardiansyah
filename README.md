@@ -47,7 +47,7 @@
 
 ## 🧠 Skills
 <p>
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,git" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,angular,js,html,css,bootstrap,git" />
 </p>
 
 ---
